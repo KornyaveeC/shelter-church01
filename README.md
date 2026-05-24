@@ -1,16 +1,24 @@
-# React + Vite
+# Shelter Church Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚧 Work in Progress
 
-Currently, two official plugins are available:
+Currently building a modern responsive church website for Shelter Church using React and Vite. This project is still under active development and new features, UI improvements, and content updates are being added continuously.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The purpose of this project is to create a welcoming digital experience for church visitors with a warm design style, worship-focused visuals, bilingual support, sermons, events, and future community features.
 
-## React Compiler
+Current progress includes:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Hero section with image/video background
+- Responsive layout
+- Thai / English support
+- Smooth animations
+- Church content structure
+- Sermons section
+- Shop section prototype
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+More features coming soon:
+- Event system
+- Message/Sermon pages
+- Better mobile experience
+- Additional animations
+- Community features
