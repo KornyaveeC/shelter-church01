@@ -22,3 +22,39 @@ More features coming soon:
 - Better mobile experience
 - Additional animations
 - Community features
+
+
+## Features
+
+- Responsive one-page website
+- React + Vite setup
+- Tailwind CSS styling
+- Framer Motion animations
+- Thai / English language support with i18next
+- Hero background image/video support
+- Sections for church intro, gatherings, sermons, and shop
+- Clean modern UI with warm brown visual theme
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- i18next
+- Lucide React
+
+## Project Structure
+
+```bash
+public/
+src/
+  church01/
+  App.jsx
+  App.css
+  index.css
+  i18n.js
+  main.jsx
+package.json
+vite.config.js
