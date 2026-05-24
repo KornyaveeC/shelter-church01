@@ -23,14 +23,6 @@ More features coming soon:
 - Additional animations
 - Community features
 
-ได้ Imp เอาอันนี้ไปแทน `README.md` เดิมเลย:
-
-````md
-# Shelter Church Website
-
-A modern responsive one-page church website built with React and Vite.  
-This project is designed for Shelter Church with a warm visual style, worship-focused hero section, bilingual content, and smooth page animations.
-
 ## Features
 
 - Responsive one-page website
